@@ -15,3 +15,8 @@ SVCLASS.py: le code pyhton contenant l'algorithme two-Class Support Vector Machi
 
 Corrigé : Le corrigé de mon devoir
 MLTESTQM.ipynb : Une 2ème version de mon devoir que j'ai réalisé après avoir rendu mon devoir et avant d'avoir reçu le corrigé
+
+
+Depuis le 19/10/20 :
+statdes.ipynb : notebook jupiter contenant le début du code de la partie statistique descriptive.
+rapport_Data_Set.html : c'est un rapport magique de statstique descriptive, il suffit de lui injecter le df et il produit un rapport html de OUF ! Regardez
