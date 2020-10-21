@@ -33,3 +33,6 @@ statdes.ipynb : notebook jupiter contenant le début du code de la partie statis
 
 rapport_Data_Set.html : c'est un rapport magique de statstique descriptive, il suffit de lui injecter le df et il produit un rapport html de OUF ! Regardez
 
+Depuis le 20/10/20 :
+
+SoutenanceStatDes : contient la partie statistique descriptive 
