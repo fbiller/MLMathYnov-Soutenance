@@ -36,3 +36,8 @@ rapport_Data_Set.html : c'est un rapport magique de statstique descriptive, il s
 Depuis le 20/10/20 :
 
 SoutenanceStatDes : contient la partie statistique descriptive 
+
+
+Depuis le 28/10/20 :
+
+ynov-MATHML-G5-Quantmetry.ipynb : le fichier envoyé pour correction au prof
